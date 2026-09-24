@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**sam070997/sam070997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # 嗨，我是張祐祥!!
+ - 我是中原大學的學生，目前正在學習計算機概論。
+ # 關於我
+ - 系級:智運一甲
+ - 正在學習:Python、GitHub
+ - 感興趣的主題:籃球
+ - 這學期的目標:學習很多知識
+ # 我的作品
+ - 製作中
+   [中原智運](https://icbd.cycu.edu.tw/)
